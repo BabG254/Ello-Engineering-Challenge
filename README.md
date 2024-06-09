@@ -23,3 +23,7 @@ This project is part of the Ello Engineering Challenge, designed to showcase the
    ```bash
    git clone https://github.com/your-username/Ello-Engineering-Challenge.git
    cd Ello-Engineering-Challenge
+Available Scripts
+npm run start:dev: Start the backend in development mode with hot-reloading.
+npm run lint: Run ESLint to check for linting errors.
+npm run lint-fix: Fix linting errors automatically.
