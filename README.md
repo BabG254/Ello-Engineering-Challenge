@@ -23,7 +23,11 @@ This project is part of the Ello Engineering Challenge, designed to showcase the
    ```bash
    git clone https://github.com/your-username/Ello-Engineering-Challenge.git
    cd Ello-Engineering-Challenge
-Available Scripts
-npm run start:dev: Start the backend in development mode with hot-reloading.
-npm run lint: Run ESLint to check for linting errors.
-npm run lint-fix: Fix linting errors automatically.
+   
+2. How to Run
+    Go to the backend directory i.e.  ./backend
+    run 'npm start' to start the server for the backend
+   
+    Go to the frontend directory i.e.  ./frontend
+    run 'npm start' for the webview
+
