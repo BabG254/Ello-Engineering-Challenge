@@ -26,8 +26,10 @@ This project is part of the Ello Engineering Challenge, designed to showcase the
    
 2. How to Run
     Go to the backend directory i.e.  ./backend
+    run 'npm install' to install the dependancies
     run 'npm start' to start the server for the backend
    
     Go to the frontend directory i.e.  ./frontend
+    run 'npm install' to install the dependancies
     run 'npm start' for the webview
 
